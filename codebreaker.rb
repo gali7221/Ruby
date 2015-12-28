@@ -36,6 +36,12 @@ code = code.capitalize
 puts code
 
 
+# Alternate Solution
+code[0] = ''
+code = code.insert(11, "A EW? 0").delete "Q?,"
+puts code.downcase.reverse.capitalize
+
+
 
 
 
