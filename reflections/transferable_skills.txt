@@ -1,0 +1,10 @@
+I am a Front-end developer and working towards my first job. I am very confident, and should nail down a job in the next couple
+of months. But I always feel lousy knowing the Front-end. I want to become a full-stack, and must be one. 
+
+Skills: 
+HTML
+CSS
+Javascript
+AngularJS
+jQuery
+AJAX

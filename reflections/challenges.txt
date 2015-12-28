@@ -1,0 +1,7 @@
+I am a little concerned with learning Ruby on Rails. I have attempted before and kind of gave up. I am familiar with 
+Front-end development, and wanted to become a Full Stack Developer. I just couldn't get it to work. So once I saw udacity offer a course, I knew I had to take it. You guys taught me Front end with your nanodegree. 
+
+1. I am concerned whether I will walk out of it developing ruby applications like a champ. This is, of course, everyones doubts and concerns 
+
+2. I also want to complete this nanodegree incredibly fast, and I hope the ruby on rails nanodegree comes very soon. I want to jump in as a developer soon!
+
